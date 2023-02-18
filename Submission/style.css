@@ -1,0 +1,87 @@
+a { color: #555; 
+    font-size: 2rem; 
+    text-decoration: none; 
+    font-family: 'Libre Baskerville', serif;
+    padding-left: 14.375rem;
+}
+
+a:hover { 
+    color: #f94b4b; 
+    text-decoration: none;
+}
+
+body {
+    color: #434242;
+    background-color: aliceblue;
+    margin: 0 auto;
+    max-width: 50rem;
+    font-family: 'Libre Baskerville', serif;
+    line-height: 1.5;
+    padding: 4rem 2rem;
+    border-color: antiquewhite;
+}
+
+blockquote { 
+    background-image: url(http://typespiration.com/wp-content/themes/typespiration/images/quote.png); 
+    background-position: 0.625rem 10%; 
+    background-repeat: no-repeat no-repeat; 
+    padding: 5rem 0; 
+    margin: 0 auto;
+    max-width: 40rem;
+}
+
+h1 {
+    font-family:'Libre Baskerville', serif;
+    color: #555;
+    font-size: 3.5rem;
+    margin: 1.5rem auto;
+    line-height: normal;
+}
+ 
+h2 {
+    margin: 2rem  auto auto auto;
+    padding-top: 1rem;
+    color: #333;
+    font-size: 2rem;
+    max-width: 25rem;   
+}
+
+img {
+    width: 100%;
+}
+
+p { 
+    
+    line-height: 3.5rem; 
+    margin: 0 0.3125rem 1.5rem; 
+    float: left; 
+    padding: 0.625rem; 
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5rem;
+}
+
+ul {
+    line-height: 1.8;
+    margin-left: -1.25rem;
+}
+  
+ul li:not(:last-child) {
+    margin-bottom: 1.25rem;
+}
+      
+/****CLASS****/
+
+.comment { 
+    background: #f2f2f2; 
+    color: #fe3d3d; 
+    text-align: left;                                 
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: 500;
+  } 
+
+.lists {
+    max-width: 29rem;
+    margin: 0 auto;
+    font-size: 1.3rem;
+}
